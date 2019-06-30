@@ -6,9 +6,6 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <title>URL Shortener</title>
-    <noscript>
-      <h1>JS disabled. Enable it to access the website</h1>
-    </noscript>
     </head>
     <body style = "background-color: #66b0ff;">
       <div class = "container">
