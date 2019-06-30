@@ -1,6 +1,6 @@
 # url-shortener
 
-*Installation 
+Installation 
 
 
 SQL Config: Update username, dbname, password, host in conn.php
