@@ -2,6 +2,8 @@
 
 Installation 
 
+Shortened URL: Repalce 'localhost/lnkshrt/' with your website in the input box in index.php
+
 Link Length: Replace 'localhost/lnkshrt/' with your website URL in index.php to display correct URL length.
 
 SQL Config: Update username, dbname, password, host in conn.php
